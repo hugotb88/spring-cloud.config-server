@@ -21,7 +21,7 @@ server.port = 8888
     - Inside git-localconfig-repo folder
         - git init
         - Inside limits-service.properties file with the following:
-          #Some properties
+          #Some properties  
           limits-service.minimum = 4
           limits-service.maximum = 996
         - git commit -a -m 
